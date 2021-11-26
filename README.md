@@ -20,7 +20,7 @@
 
 
 <h3 >Enivionment  used---</h3>
-<p> Jupyter Notebook version-- Anaconda</p>
+<p> Jupyter Notebook version-- Anaconda-3</p>
 <p> Python Version--3.9 </p>
 
 
