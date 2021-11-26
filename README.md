@@ -1,5 +1,5 @@
 # DisesesPredictor
-# Author: Vikas
+<h3> Author: Vikas</h3>
 
 <h1>About Disease Predictor</h1
 <p>ML model that detects diseases from provided symptoms provide by user using Decisiopn Tree ,RAndomForest and NaiveBayes classifications<p>
