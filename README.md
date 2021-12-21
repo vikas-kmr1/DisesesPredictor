@@ -19,8 +19,8 @@
 <a href="https://www.tutorialspoint.com/scikit_learn/index.htm"> sklearn</a><hr>
 
 
-<h3 >Enivionment  used---</h3>
-<p> Jupyter Notebook version-- Anaconda-3</p>
+<h3 >Environment  used---</h3>
+<p> Jupter Notebook version-- Anaconda-3</p>
 <p> Python Version--3.9 </p>
 
 
