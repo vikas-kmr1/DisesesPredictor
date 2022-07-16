@@ -1,6 +1,6 @@
 # DisesesPredictor: 
 ## About Disease Predictor: 🧾
-ML model that detects diseases from provided symptoms provide by user using Decisiopn Tree ,RandomForest and NaiveBayes classifications algorithms.
+ML model that detects diseases from provided symptoms provide by user using Decision Tree ,RandomForest and NaiveBayes classifications algorithms.
 
 - learn more about
     - Decision Tree <a href="https://www.edureka.co/blog/decision-trees/">click here</a> 
